@@ -1,2 +1,6 @@
-# PersonalBlogMVC
- Personal blog example with .NET MVC
+# .Net MVC Personal Blog Example
+
+It is a simple single project Blog Example. 
+### Usages
+ * MsSQL
+ * Entity Framework
